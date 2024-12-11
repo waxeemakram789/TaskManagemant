@@ -132,3 +132,7 @@ Make sure you have the following installed:
    ```bash
    php artisan db:seed
    ```
+7. **To run server**
+   ```bash
+   php artisan serve
+   ```
